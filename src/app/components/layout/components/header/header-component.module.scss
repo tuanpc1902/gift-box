@@ -1,0 +1,12 @@
+.wrapper {
+    width: 100%;
+    height: var(--default-layout-header-height);
+    box-shadow: 0 0.1rem 0.1rem rgb(0 0 0 / 12%);
+    color: var(--white-color);
+    background-color: var(--default-background-header);
+}
+
+.content {
+    height: 100%;
+    width: var(--default-layout-width);
+}
